@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="test_point_data" id="test_point_data">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="value" type="float"></SimpleField>
+</Schema>
+<Folder><name>test_point_data</name>
+  <Placemark>
+	<name>Ηγουμενίτσα</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="value">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.99193,39.10144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Πρέβεζα</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.91295,39.21634</coordinates></Point>
+  </Placemark>
+
+</Folder>
+</Document></kml>
