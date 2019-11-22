@@ -7,20 +7,28 @@
 </Schema>
 <Folder><name>test_point_data</name>
   <Placemark>
-	<name>Ηγουμενίτσα</name>
-	<ExtendedData><SchemaData schemaUrl="#test_point_data">
-		<SimpleData name="id">3</SimpleData>
-		<SimpleData name="value">89</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>20.99193,39.10144</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>Πρέβεζα</name>
+	<name>Town Hall</name>
 	<ExtendedData><SchemaData schemaUrl="#test_point_data">
 		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.502872,20.265152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TEI</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">2</SimpleData>
 		<SimpleData name="value">50</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>20.91295,39.21634</coordinates></Point>
+      <Point><coordinates>39.511072,20.257523</coordinates></Point>
+  </Placemark>
+	<Placemark>
+	<name>TEI</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.545400,20.262645</coordinates></Point>
   </Placemark>
 
 </Folder>
