@@ -7,29 +7,13 @@
 </Schema>
 <Folder><name>test_point_data</name>
   <Placemark>
-	<name>Town Hall</name>
-	<ExtendedData><SchemaData schemaUrl="#test_point_data">
-		<SimpleData name="id">1</SimpleData>
-		<SimpleData name="value">89</SimpleData>
+	<name>Εστίες</name>
+	<ExtendedData>
+    <SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="value">67</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>20.265152,39.502872</coordinates></Point>
+      <Point><coordinates>20.257491,39.511089</coordinates></Point>
   </Placemark>
-  <Placemark>
-	<name>TEI</name>
-	<ExtendedData><SchemaData schemaUrl="#test_point_data">
-		<SimpleData name="id">2</SimpleData>
-		<SimpleData name="value">50</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>20.265152,39.502872</coordinates></Point>
-  </Placemark>
-	<Placemark>
-	<name>TEI</name>
-	<ExtendedData><SchemaData schemaUrl="#test_point_data">
-		<SimpleData name="id">3</SimpleData>
-		<SimpleData name="value">50</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>20.265152,39.502872</coordinates></Point>
-  </Placemark>
-
 </Folder>
 </Document></kml>
