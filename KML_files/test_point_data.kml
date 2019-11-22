@@ -12,7 +12,7 @@
 		<SimpleData name="id">1</SimpleData>
 		<SimpleData name="value">89</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>20.265152,39.502872</coordinates></Point>
+      <Point><coordinates>39.502872, 20.265152</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>TEI</name>
@@ -20,7 +20,7 @@
 		<SimpleData name="id">2</SimpleData>
 		<SimpleData name="value">50</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>20.257523,39.511072</coordinates></Point>
+      <Point><coordinates>39.502872, 20.265152</coordinates></Point>
   </Placemark>
 	<Placemark>
 	<name>TEI</name>
@@ -28,7 +28,7 @@
 		<SimpleData name="id">3</SimpleData>
 		<SimpleData name="value">50</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>39.545400,20.262645,39.545400</coordinates></Point>
+      <Point><coordinates>39.502872, 20.265152</coordinates></Point>
   </Placemark>
 
 </Folder>
