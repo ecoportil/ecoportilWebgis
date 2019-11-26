@@ -7,7 +7,7 @@
 </Schema>
 <Folder><name>test_point_data</name>
   <Placemark>
-	<name>Town Hall</name>
+	<name>Εστίες</name>
 	<ExtendedData>
     <SchemaData schemaUrl="#test_point_data">
 		<SimpleData name="id">4</SimpleData>
@@ -16,24 +16,44 @@
       <Point><coordinates>20.257491,39.511089</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>TEI</name>
-	<ExtendedData>
-    <SchemaData schemaUrl="#test_point_data">
-		<SimpleData name="id">4</SimpleData>
-		<SimpleData name="value">67</SimpleData>
+	<name>Αγία Παρασκευή</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="value">89</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>20.257534,39.511031</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>Port</name>
-	<ExtendedData>
-    <SchemaData schemaUrl="#test_point_data">
-		<SimpleData name="id">4</SimpleData>
-		<SimpleData name="value">67</SimpleData>
+	<name>Κομπότι</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="value">52</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>20.262863,39.497989</coordinates></Point>
+      <Point><coordinates>21.06071,39.09518</coordinates></Point>
   </Placemark>
-	
-  
+  <Placemark>
+	<name>Κομμένο</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.01207,39.05061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Καμπή</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.91295,39.21634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ΤΕΙ</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.94737,39.12208</coordinates></Point>
+  </Placemark>
 </Folder>
 </Document></kml>
