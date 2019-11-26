@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="test_point_data" id="test_point_data">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="value" type="float"></SimpleField>
+</Schema>
+<Folder><name>test_point_data</name>
+  <Placemark>
+	<name>Δημαρχείο</name>
+	<ExtendedData>
+    <SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="value">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.265172,39.502884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ΤΕΙ</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="value">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.99193,39.10144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Port</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="value">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.268069,39.539072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Κομμένο</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.01207,39.05061</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
