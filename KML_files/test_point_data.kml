@@ -13,7 +13,7 @@
 		<SimpleData name="id">4</SimpleData>
 		<SimpleData name="value">67</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>20.257491,39.511089</coordinates></Point>
+      <Point><coordinates>20.98424,39.14711</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>Αγία Παρασκευή</name>
@@ -21,7 +21,7 @@
 		<SimpleData name="id">3</SimpleData>
 		<SimpleData name="value">89</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>20.257534,39.511031</coordinates></Point>
+      <Point><coordinates>20.99193,39.10144</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>Κομπότι</name>
